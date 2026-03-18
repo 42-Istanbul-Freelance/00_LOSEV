@@ -4,20 +4,11 @@ Bu depo, katılımcıların geliştireceği **iki farklı uygulama** için başl
 
 Amaç yalnızca teknik ürün üretmek değil; LÖSEV değerlerini dijital deneyimle destekleyen, gerçek hayata dokunan çözümler geliştirmektir.
 
-## İçerik
-
-Bu depodaki iki ana referans doküman:
-
-1. [FARKINDALIK_MOBIL.md](./FARKINDALIK_MOBIL.md)  
-   Çocuklara iyilik, paylaşma, gönüllülük, sağlık ve günlük iyi alışkanlıkları kazandırmayı hedefleyen oyunlaştırılmış mobil uygulama.
-2. [GONULLU_TAKIP.md](./GONULLU_TAKIP.md)  
-   LÖSEV İnci öğrencilerinin gönüllülük faaliyetlerini kayıt, onay ve raporlama süreçleriyle takip eden sistem.
-
 ## Katılımcılardan Beklenenler
 
 Katılımcılar/ekipler, aşağıdaki iki projeden **birini seçerek** ona odaklanır:
 
-1. **İyilik ve Sağlık Alışkanlıkları Mobil Uygulaması**
+1. **Lösemi Farkındalık Mobil Uygulaması**
 2. **LÖSEV İnci Gönüllülük Takip Sistemi**
 
 Seçilen proje, aşağıdaki örnek dokümanlardan biri üzerinden ilerletilir.
